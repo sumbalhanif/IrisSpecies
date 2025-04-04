@@ -1,1 +1,2 @@
 # IrisSpecies
+The project aimed to classify Iris flower species (Setosa, Versicolor, Virginica) using logistic regression based on petal and sepal dimensions. The data was preprocessed by converting features to numeric values and encoding species labels. A logistic regression model was trained on the data, achieving perfect accuracy of 100%. The model showed flawless performance with a confusion matrix indicating no misclassifications, and the classification report highlighted perfect precision, recall, and F1 scores for all species.
